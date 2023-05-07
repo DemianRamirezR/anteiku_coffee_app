@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>303228397545-a7hgod1fj4pt3n9f9thvmu7ta4qt56j1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.303228397545-a7hgod1fj4pt3n9f9thvmu7ta4qt56j1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>303228397545-tb82480gd5ho23panthckr5n64ogrf5e.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC47ogVQrvwQVqG4New5CCyZ8Slx24_KNg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>303228397545</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ramirez</string>
+	<key>PROJECT_ID</key>
+	<string>anteikuproyect</string>
+	<key>STORAGE_BUCKET</key>
+	<string>anteikuproyect.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:303228397545:ios:696379c013ae587d128d78</string>
+</dict>
+</plist>

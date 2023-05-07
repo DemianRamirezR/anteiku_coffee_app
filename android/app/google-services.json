@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "303228397545",
+    "project_id": "anteikuproyect",
+    "storage_bucket": "anteikuproyect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303228397545:android:d8b550b264a4e9e8128d78",
+        "android_client_info": {
+          "package_name": "com.ramirez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303228397545-tb82480gd5ho23panthckr5n64ogrf5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramirez",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "303228397545-3rvtuc49krfsavjumv96im0dqrulhu6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD54lNfJ063aR907bUpe4xDJIJcUvCxJfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303228397545-3rvtuc49krfsavjumv96im0dqrulhu6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303228397545-a7hgod1fj4pt3n9f9thvmu7ta4qt56j1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ramirez"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
