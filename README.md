@@ -1,31 +1,32 @@
 # AnteikuCoffeeApp
+Ramirez Ramirez Jose Demian
 
-A new Flutter project.
+Mi nueva app en Flutter.
 
-## Getting Started
+## Primeros pasos:
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Los proyectos de FlutterFlow están diseñados para ejecutarse en la versión _stable_ de Flutter.
 
-### IMPORTANT:
+### IMPORTANTE:
 
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
+Para proyectos con integración de Firestore, primero debe ejecutar los siguientes comandos para asegurarse de que el proyecto se compile:
 
 ```
 flutter pub get
 flutter packages pub run build_runner build --delete-conflicting-outputs
 ```
 
-This command creates the generated files that parse each Record from Firestore into a schema object.
+Este comando crea los archivos generados que analizan cada registro de Firestore en un objeto de esquema.
 
-### Getting started continued:
+### Primeros pasos-continuación:
 
-This project is a starting point for a Flutter application.
+Este proyecto es un punto de partida para una aplicación Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Algunos recursos para comenzar si este es su primer proyecto de Flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Lab: Escriba su primera aplicación de Flutter](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Muestras útiles de Flutter](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obtener ayuda para comenzar con Flutter, consulte nuestra
+[documentacion online](https://flutter.dev/docs), que ofrece tutoriales,
+muestras, orientación sobre desarrollo móvil y una referencia completa de la API.
